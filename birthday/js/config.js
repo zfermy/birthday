@@ -17,7 +17,7 @@ window.BIRTHDAY_CONFIG = {
   music: "assets/music/bgm.mp3",
 
   // 首屏头像(圆形,可选)。留空 "" 则不显示,例如 "assets/photos/avatar.jpg"
-  avatar: "assets/photos/1.jpg",
+  avatar: "assets/photos/4.jpg",
 
   // 相册:放好照片后按格式添加;为空时页面会显示占位图
   photos: [
